@@ -1,0 +1,7 @@
+Test ID,Expected,Actual,Status
+"TC01","Login successful","Login successful","PASS"
+"TC02","Invalid username or password","Invalid username or password","PASS"
+"TC03","Invalid username or password","Waiting for element to be located By(css selector, *[id=""flash""])
+Wait timed out after 5009ms","FAIL"
+"TC04","required","Required field blocked submission","PASS"
+"TC05","required","Required field blocked submission","PASS"

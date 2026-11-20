@@ -1,0 +1,4 @@
+case_id,description,status,detail
+RES_01,"Search and verify book title",PASS,"Found title: Software Testing"
+RES_ERR,"Unexpected script error",FAIL,"Waiting for element to be located By(css selector, *[id=""flash""])
+Wait timed out after 5091ms (/home/zeeshan/p243035_CampusLibrary_QA/selenium/screenshots/error_unexpected.png)"

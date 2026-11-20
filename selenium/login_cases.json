@@ -1,0 +1,7 @@
+[
+  {"id":"TC01","username":"student1","password":"Library@123","expected":"Login successful"},
+  {"id":"TC02","username":"wronguser","password":"Library@123","expected":"Invalid username or password"},
+  {"id":"TC03","username":"student1","password":"wrongpass","expected":"Invalid username or password"},
+  {"id":"TC04","username":"","password":"Library@123","expected":"required"},
+  {"id":"TC05","username":"student1","password":"","expected":"required"}
+]
